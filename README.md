@@ -4,7 +4,7 @@ Welcome to the Stopwatch Web Application project! This simple yet functional app
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Stopwatch Application : https://adarshgandhi29.github.io/PRODIGY_WD_02/
+Check out the live demo of the Stopwatch Application :  https://roshansakthivel.github.io/Prasunet_WD_02/
 
 ## ✨ Features
 
